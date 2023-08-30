@@ -2,7 +2,7 @@
     {
         "id": "carne-01",
         "titulo": "Hamburguesa completa con pepinos",
-        "imagen": "../img/carne/01.jpg",
+        "imagen": "https://analiajaime.github.io/img/carne/01.jpg",
         "categoria": {
             "nombre": "carne",
             "id": "carne"
@@ -123,7 +123,7 @@
     {
         "id": "veggie-04",
         "titulo": "Hamburguesa pure green",
-        "imagen": "../img/veggie/04.jpg",
+        "imagen": "./img/veggie/04.jpg",
         "categoria": {
             "nombre": "veggie",
             "id": "veggie"
