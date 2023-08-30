@@ -1,0 +1,143 @@
+[
+    {
+        "id": "carne-01",
+        "titulo": "Hamburguesa completa con pepinos",
+        "imagen": "./img/carne/01.jpg",
+        "categoria": {
+            "nombre": "carne",
+            "id": "carne"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "carne-02",
+        "titulo": "Hamburguesa doble con morrones asados",
+        "imagen": "./img/carne/02.jpg",
+        "categoria": {
+            "nombre": "carne",
+            "id": "carne"
+        },
+        "precio": 4700
+    },
+    {
+        "id": "carne-03",
+        "titulo": "Hamburguesa doble con cheddar",
+        "imagen": "./img/carne/03.jpg",
+        "categoria": {
+            "nombre": "carne",
+            "id": "carne"
+        },
+        "precio": 5200
+    },
+    {
+        "id": "carne-04",
+        "titulo": "Hamburguesa completa con lechuga y panceta",
+        "imagen": "./img/carne/04.jpg",
+        "categoria": {
+            "nombre": "carne",
+            "id": "carne"
+        },
+        "precio": 4800
+    },
+    {
+        "id": "carne-05",
+        "titulo": "Hamburguesa completa con lechuga y tomate",
+        "imagen": "./img/carne/05.jpg",
+        "categoria": {
+            "nombre": "carne",
+            "id": "carne"
+        },
+        "precio": 4900
+    },
+    {
+        "id": "pollo-01",
+        "titulo": "Patitas de pollo",
+        "imagen": "./img/pollo/01.jpg",
+        "categoria": {
+            "nombre": "pollo",
+            "id": "pollo"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "pollo-02",
+        "titulo": "Empanadas de pollo",
+        "imagen": "./img/pollo/02.jpg",
+        "categoria": {
+            "nombre": "pollo",
+            "id": "pollo"
+        },
+        "precio": 600
+    },
+    {
+        "id": "pollo-03",
+        "titulo": "Hamburguesa de pollo",
+        "imagen": "./img/pollo/03.jpg",
+        "categoria": {
+            "nombre": "pollo",
+            "id": "pollo"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pollo-04",
+        "titulo": "Tacos de pollo",
+        "imagen": "./img/pollo/04.jpg",
+        "categoria": {
+            "nombre": "pollo",
+            "id": "pollo"
+        },
+        "precio": 2000
+    },
+  
+    {
+        "id": "veggie-01",
+        "titulo": "Hamburguesa de queso y tomate",
+        "imagen": "./img/veggie/01.jpg",
+        "categoria": {
+            "nombre": "veggie",
+            "id": "veggie"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "veggie-02",
+        "titulo": "Tacos veggie",
+        "imagen": "./img/veggie/02.jpg",
+        "categoria": {
+            "nombre": "veggie",
+            "id": "veggie"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "veggie-03",
+        "titulo": "Hamburguesa pepinos y rabanitos",
+        "imagen": "./img/veggie/03.jpg",
+        "categoria": {
+            "nombre": "veggie",
+            "id": "veggie"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "veggie-04",
+        "titulo": "Hamburguesa pure green",
+        "imagen": "./img/veggie/04.jpg",
+        "categoria": {
+            "nombre": "veggie",
+            "id": "veggie"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "veggie-05",
+        "titulo": "Bocaditos veggie",
+        "imagen": "./img/veggie/05.jpg",
+        "categoria": {
+            "nombre": "veggie",
+            "id": "veggie"
+        },
+        "precio": 1500
+    }
+]
